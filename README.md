@@ -1,3 +1,3 @@
-# chopper
+# acdc
 
 Power electronics toolbox
